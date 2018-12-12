@@ -1,2 +1,2 @@
-# This is a readme.me
-# it contain desc. of projekk
+# The project will use Maven Java
+It will contain some Java code
